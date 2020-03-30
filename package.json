@@ -1,0 +1,18 @@
+{
+  "name": "cra-template-so-riridux",
+  "version": "1.0.0",
+  "repository": "https://github.com/SO-JIMM/cra-template-so-riridux",
+  "description": "The standard cra-template cleaned up and ready to use with sass, firebase, reach/slider, normalize.css, react-redux, redux toolkit, uuid, react-router-dom, and other personal preferences.",
+  "keywords": [
+    "react",
+    "template",
+    "cra-template"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ],
+  "main": "template.json",
+  "author": "so-jimm",
+  "license": "ISC"
+}
